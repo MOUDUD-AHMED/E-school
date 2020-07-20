@@ -1,0 +1,150 @@
+*body {
+    margin: 0;
+    padding: 0;
+}
+
+body p {
+    color: #585859;
+}
+
+.bg-top {
+    background-color: #F0FFF0;
+    width: 100%;
+    height: 576px;
+}
+
+.nav-item {
+    font-size: 16px;
+    margin: 0px 10px;
+}
+
+.btn-success {
+    padding: 12px 30px;
+    border-radius: 40px;
+    font-size: 16px;
+    font-family: Roboto;
+    line-height: 19px;
+}
+
+.top-banner {
+    margin-top: 60px;
+}
+
+.top-content {
+    margin-top: 20px;
+    line-height: 36px;
+}
+
+#schedule-content {
+    color: #28a745;
+}
+
+section {
+    padding-top: 30px;
+}
+
+.card {
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+    border: none;
+}
+
+.card img {
+    margin-top: 55px;
+}
+
+.lightblue-bg {
+    background-color: #F8FFFB;
+}
+
+.box-shadow {
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.course-title {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.box-shadow1 {
+    width: 355px;
+    height: 530px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(156, 110, 110, 0.1);
+    border-radius: 18px;
+}
+
+.calender{
+    width: 17%;
+    height: 17%;
+    margin-bottom: 55px;
+}
+
+.people {
+    width: 15%;
+    height: 15%;
+    margin-bottom: 55px;
+    margin-left: 45%;
+}
+
+.people-icon {
+    margin-right: 5px;
+}
+
+.calender-text {
+    margin-left: ;
+}
+
+.test-img {
+    width: 35%;
+    height: 35%;
+    margin-left: 250px;
+    padding-top: 5%;
+    position: absolute;
+}
+
+.test-content {
+    width: 660px;
+    height: 90px;
+    margin-left: 420px;
+    margin-top: 80px;
+    
+}
+
+.bg-bottom {
+    height: 330px;
+    background-color: #282531;
+    margin-top: 20%;
+}
+
+.bg-bottom p ,ul ,li, a {
+    color: white;
+}
+
+.bg-bottom ul li {
+    list-style: none;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+.bg-bottom ul li a {
+    text-decoration: none;
+}
+
+ul li:first-child {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+footer {
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+.img-transition:hover {
+    transform: scale(1.1);
+    transition: transform 1.5s ease-in 1s;
+    cursor: pointer;
+}
