@@ -77,23 +77,25 @@ section {
 
 .calender{
     width: 17%;
-    height: 17%;
+    height: 10%;
     margin-bottom: 55px;
 }
 
 .people {
-    width: 15%;
-    height: 15%;
+    width: 17%;
+    height: 10%;
     margin-bottom: 55px;
-    margin-left: 45%;
+    margin-left: 47%;
+    
 }
 
-.people-icon {
+.people-text {
     margin-right: 5px;
+    font-size: 14px;
 }
 
 .calender-text {
-    margin-left: ;
+    font-size: 14px;
 }
 
 .test-img {
